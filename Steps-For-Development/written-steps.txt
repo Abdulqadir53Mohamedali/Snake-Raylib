@@ -1,0 +1,13 @@
+Steps to develope snake ( order in which I will be creating this in)
+
+
+1. Creating a blank canvas and a Game loop 
+2. Creating the Snake food
+3.  Creating the actual snake
+4. Moving the snake
+5. Making the sanke eat the food 
+6. Making the snake grow longer
+7. Checking for collisions with edges and tail
+8. Adding the title  & frame 
+9. Keeping score of eaten food 
+10. Adding sounds to make the game more enjoyable
